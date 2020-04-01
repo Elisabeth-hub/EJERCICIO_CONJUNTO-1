@@ -6,7 +6,7 @@ namespace Ejercicio_Conjunto
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("adios muy buenas");
         }
         static void anadirDato()
         {
@@ -26,6 +26,8 @@ namespace Ejercicio_Conjunto
                 Console.Write("{0}, ",nombres[i]);
             }
         }
-        //Prueba commit
+        
+
+        //Prueba commit 2
     }
 }
