@@ -26,5 +26,15 @@ namespace Ejercicio_Conjunto
                 Console.Write("{0}, ",nombres[i]);
             }
         }
+        
+        static void Salir()
+        {
+            else
+                    {
+                        Console.Write("No hay más opciones");
+                        i = 5;
+                    }
+        }
+                   
     }
 }
